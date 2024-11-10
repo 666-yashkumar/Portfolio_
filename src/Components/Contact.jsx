@@ -1,5 +1,5 @@
 import React from 'react'
-import Img4 from '../Image/img4.jpg'
+import Img4 from '../Image/Img4.jpg'
 import { FaLinkedin, FaGithub, FaTwitter, FaInstagram } from "react-icons/fa";
 
 const Contact = () => {
