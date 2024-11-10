@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, and Edge */
+  }
+  body{
+    cursor: none;
+  }
+
+  .shadow-custom {
+    box-shadow: 0 4px 30px rgba(255, 255, 255, 0.5); /* Blurry white shadow */
+    backdrop-filter: blur(10px); /* Optional: Adds a blur effect behind the image */
+  }
+  
