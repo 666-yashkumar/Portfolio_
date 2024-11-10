@@ -1,6 +1,6 @@
 import React from "react";
-import Img2 from "../Image/img2.jpg";
-import Img3 from "../Image/img3.jpg";
+import Img2 from "../Image/Img2.jpg";
+import Img3 from "../Image/Img3.jpg";
 import resumePdf from "../Image/Resu.pdf";
 
 const About = () => {
